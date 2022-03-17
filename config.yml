@@ -1,12 +1,12 @@
-baseURL: "http://example.org/"
-languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+baseURL: "https://red-bay-006e5b010.1.azurestaticapps.net/"
+languageCode: "ja-jp"
+title: "SkytechLab"
 
 module:
   imports:
     - path: github.com/theNewDynamic/gohugo-theme-ananke
 
-DefaultContentLanguage: en
+DefaultContentLanguage: ja
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ''
@@ -20,7 +20,7 @@ params:
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: ''
   instagram: ''
   youtube: ''
   github: ''
