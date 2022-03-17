@@ -1,25 +1,26 @@
----
-baseURL: red-bay-006e5b010.1.azurestaticapps.net
-languageCode: ja-jp
-title: SkyTechLab
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Hugo Ananke Forestry Starter"
+
 module:
   imports:
-  - path: github.com/theNewDynamic/gohugo-theme-ananke
-DefaultContentLanguage: ja
+    - path: github.com/theNewDynamic/gohugo-theme-ananke
+
+DefaultContentLanguage: en
 SectionPagesMenu: main
-Paginate: "3"
+Paginate: 3
 googleAnalytics: ''
 enableRobotsTXT: true
 sitemap:
   changefreq: monthly
-  priority: "0.5"
+  priority: 0.5
   filename: sitemap.xml
 params:
   favicon: ''
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: https://twitter.com/GoHugoIO
+  twitter: 'https://twitter.com/GoHugoIO'
   instagram: ''
   youtube: ''
   github: ''
@@ -30,5 +31,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number: "2"
+  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  recent_posts_number: 2
