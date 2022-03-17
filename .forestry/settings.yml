@@ -22,6 +22,10 @@ sections:
   label: About
   create: all
   match: "**/*"
+- type: document
+  path: config.yml
+  label: config.yaml
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
