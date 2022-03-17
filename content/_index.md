@@ -1,11 +1,26 @@
 ---
-title: TOP_PAGE
+title: SkytechLab
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: DESCRIPTIONがここです。
+description: ''
 
 ---
-\[本文ここから\]
+#### **VISION - 私たちの目指すもの -**
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+クラウドサービスを適切に使える人はどれくらいいるでしょうか。
 
-\[本文ここまで\]
+日々更新されていく数々の機能に追いつけず、どの機能がどんなことに 使えるのか分からない。使えた場合でも正しく使えたかが分からない。  
+SkytechLab は、機能を整理し、その機能を実際に検証した結果を公開していくことで、クラウドの利用促進に寄り添っていきます。
+
+##### 検証第一主義
+
+![](/images/card1.jpg)私たちは機能に関して、机上の定義だけでなく、実際の検証を通じて 得られた利用法などの情報を発信することで社会に貢献します。
+
+##### 失敗も財産
+
+![](/images/card2.jpg)設定において一度つまづいた所は、他の人もつまづく  
+ことがあります。 そのため、私たちは検証から得られた失敗の経験も発信することでクラウドユーザに寄り添います。
+
+##### 全員主義
+
+![](/images/card3.jpg)関係者全員が発信情報について確認していくことで、
+多様な視点でのより精度の高い、価値ある情報を提供していきます。
