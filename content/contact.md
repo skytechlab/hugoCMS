@@ -1,7 +1,7 @@
 ---
 title: Contact
 featured_image: images/notebook.jpg
-omit_header_text: true
+omit_header_text: false
 description: お問合せ
 type: page
 menu:
@@ -9,4 +9,3 @@ menu:
 draft: true
 
 ---
-{本文}
