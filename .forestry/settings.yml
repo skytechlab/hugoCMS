@@ -14,7 +14,6 @@ sections:
   label: Post
   create: documents
   match: "*.md"
-  exclude: _index.md
   templates:
   - post
 - type: directory
