@@ -1,12 +1,9 @@
----
-title: Contact
-featured_image: images/notebook.jpg
-omit_header_text: true
-description: お問合せ
-type: page
-menu:
-  main: {}
-draft: true
++++
+description = ""
+draft = true
+featured_image = "/images/notebook.jpg"
+omit_header_text = true
+title = "Contact"
+type = "page"
 
----
-{本文}
++++

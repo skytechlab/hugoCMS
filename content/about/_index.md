@@ -1,8 +1,7 @@
 ---
 title: About
 description: ''
-featured_image: ''
-draft: true
+featured_image: "/images/notebook.jpg"
 
 ---
-skytechlab は...
+skytechlab は 2021年に活動を始めました。
