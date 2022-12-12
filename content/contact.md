@@ -2,7 +2,7 @@
 title: Contact
 featured_image: images/notebook.jpg
 omit_header_text: false
-description: お問合せ
+description: ''
 type: page
 menu:
   main: {}
