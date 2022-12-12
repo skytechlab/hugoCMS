@@ -7,7 +7,7 @@ module:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
 DefaultContentLanguage: en
 SectionPagesMenu: main
-Paginate: "3"
+Paginate: "6"
 googleAnalytics: ''
 enableRobotsTXT: true
 sitemap:
