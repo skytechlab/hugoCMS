@@ -7,12 +7,12 @@ module:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
 DefaultContentLanguage: en
 SectionPagesMenu: main
-Paginate: "3"
+Paginate: 6
 googleAnalytics: ''
 enableRobotsTXT: true
 sitemap:
   changefreq: monthly
-  priority: "0.5"
+  priority: 0.5
   filename: sitemap.xml
 params:
   favicon: ''
@@ -31,4 +31,4 @@ params:
   rss: ''
   background_color_class: bg-black
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number: "2"
+  recent_posts_number: 2
