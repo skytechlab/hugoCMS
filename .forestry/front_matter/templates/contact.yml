@@ -21,4 +21,6 @@ fields:
   default: page
   hidden: true
 pages:
+menu:
+  main: {}
 - content/contact.md
