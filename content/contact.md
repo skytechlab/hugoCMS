@@ -1,8 +1,9 @@
 +++
 description = ""
 draft = true
-featured_image = "/images/notebook.jpg"
-omit_header_text = true
+featured_image = ""
+omit_header_text = false
 title = "Contact"
 type = "page"
+
 +++

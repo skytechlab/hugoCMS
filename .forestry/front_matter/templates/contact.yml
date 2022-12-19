@@ -20,7 +20,5 @@ fields:
   label: type
   default: page
   hidden: true
-menu:
-  main: {}
 pages:
 - content/contact.md
