@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "問合せ先"
 draft = true
 featured_image = ""
 omit_header_text = false
