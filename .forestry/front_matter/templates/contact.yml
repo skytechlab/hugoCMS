@@ -20,7 +20,7 @@ fields:
   label: type
   default: page
   hidden: true
-pages:
 menu:
   main: {}
+pages:
 - content/contact.md
