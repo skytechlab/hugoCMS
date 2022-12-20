@@ -1,6 +1,6 @@
 +++
 description = ""
-featured_image = ""
+featured_image = "/images/notebook.jpg"
 omit_header_text = false
 title = "Contact"
 type = "page"
