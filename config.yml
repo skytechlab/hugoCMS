@@ -1,0 +1,40 @@
+---
+baseURL: https://red-bay-006e5b010.1.azurestaticapps.net/
+languageCode: ja-jp
+title: SkytechLab
+module:
+  imports:
+  - path: github.com/theNewDynamic/gohugo-theme-ananke
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 6
+googleAnalytics: ''
+hasCJKLanguage: true
+enableRobotsTXT: true
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+params:
+  favicon: ''
+  site_logo: ''
+  description: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  youtube: ''
+  github: ''
+  gitlab: ''
+  linkedin: ''
+  mastodon: ''
+  slack: ''
+  stackoverflow: ''
+  rss: ''
+  background_color_class: bg-black
+  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number: 2
+menu:
+  main:
+  - url: /contact
+    name: Contact
+    weight: 2
