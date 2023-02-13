@@ -9,7 +9,6 @@ DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 6
 googleAnalytics: ''
-hasCJKLanguage: true
 enableRobotsTXT: true
 sitemap:
   changefreq: monthly
